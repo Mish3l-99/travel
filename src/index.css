@@ -31,7 +31,7 @@
     @apply text-xl font-bold;
   }
   .mob-nav {
-    @apply text-black absolute left-0 top-0 w-full bg-gray-100/80 px-4 py-7 flex flex-col duration-500 md:hidden;
+    @apply text-black absolute left-0 top-0 w-full bg-gray-200/90 px-4 py-7 flex flex-col duration-500 md:hidden;
   }
   button {
     @apply p-2 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white rounded-md;

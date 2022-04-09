@@ -59,11 +59,11 @@ const Search = () => {
           </div>
           <div className="my-2 mt-4 flex flex-col">
             <label htmlFor="">Check-In :</label>
-            <input type="date" className="border rounded-md p-2" />
+            <input type="date" className="w-full border rounded-md p-2" />
           </div>
           <div className="my-2 flex flex-col">
             <label htmlFor="">Check-Out :</label>
-            <input type="date" className="border rounded-md p-2" />
+            <input type="date" className="w-full border rounded-md p-2" />
           </div>
           <div>
             <button className="w-full">Rates & Avaialabilities</button>

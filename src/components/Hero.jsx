@@ -27,7 +27,7 @@ const Hero = () => {
             <div>
               <input
                 type="text"
-                className="bg-transparent w-[220px] sm:w-[400px] focus:outline-none px-3"
+                className="bg-transparent w-[250px] sm:w-[400px] focus:outline-none px-3"
                 placeholder="Search destination .."
               />
             </div>
